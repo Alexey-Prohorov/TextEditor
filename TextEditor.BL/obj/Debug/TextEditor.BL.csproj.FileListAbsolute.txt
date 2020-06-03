@@ -1,0 +1,5 @@
+C:\Users\Alex\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+C:\Users\Alex\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+C:\Users\Alex\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+C:\Users\Alex\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
