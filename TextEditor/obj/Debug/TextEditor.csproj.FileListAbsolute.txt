@@ -10,3 +10,4 @@ C:\Users\Alex\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
 C:\Users\Alex\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
 C:\Users\Alex\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
 C:\Users\Alex\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
+C:\Users\Alex\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
